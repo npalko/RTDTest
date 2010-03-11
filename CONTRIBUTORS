@@ -1,0 +1,12 @@
+This project is simply an implementation of Kenny Kerr's code, which can be
+found at his blog:
+
+	http://weblogs.asp.net/kennykerr/archive/2008/12/03/Rtd6.aspx
+	
+Kenny was nice enough to only give me a few pieces of the puzzle, and the rest
+of which I obtained from Shahbaz Chaudhary.
+
+	https://issues.apache.org/jira/browse/QPID-1146
+	
+
+Nicholas Palko <npalko@tepper.cmu.edu>

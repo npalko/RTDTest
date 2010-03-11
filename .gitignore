@@ -1,0 +1,9 @@
+.email
+*.mexw32
+*.pyc
+*.bak
+*.user
+*.suo
+
+RTDTest/bin/*
+RTDTest/obj/*
