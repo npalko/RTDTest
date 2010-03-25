@@ -4,19 +4,11 @@
  *  2.  The assembly must be registered (Properties | Build | Register for COM
  *      interop) or %SystemRoot%\Microsoft.Net\Framework\v2.0.50727\RegAsm.exe RtdServer.dll /codebase
  * 
- * 
- * 
- * 
- * 
- * 
  * Usage:
  *      
  *      =RTD("rtd.test",,"topic")
  * 
  */
-
-
-//https://issues.apache.org/jira/browse/QPID-1146
 
 
 
