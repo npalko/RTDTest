@@ -11,7 +11,7 @@
  * 
  * Usage:
  *      
- *      =RTD("rtd.text",,"topic")
+ *      =RTD("rtd.test",,"topic")
  * 
  */
 
